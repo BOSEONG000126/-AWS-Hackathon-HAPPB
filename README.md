@@ -1,4 +1,4 @@
-# SNS형 의류 재활용 1인 쇼핑몰 HAPPB
+<img width="1054" alt="스크린샷 2023-11-08 오후 4 15 47" src="https://github.com/BOSEONG000126/AWS_Hackathon-HAPPB/assets/116350240/8f10739e-0312-4e72-a891-bad300008685"># SNS형 의류 재활용 1인 쇼핑몰 HAPPB
 <img src="https://github.com/BOSEONG000126/AWS_Hackathon-HAPPB/assets/116350240/90f06406-033e-42cd-b7cb-0eb3bef905b4"  width="800" height="300">
 
 
@@ -19,6 +19,29 @@
   + 의류 재활용으로 인한 온실가스 감소 효과 기대.
   + 
 <br/>
+
+---
+## 활용 데이터셋: 장애인 체력측정별 추천 운동 데이터
+<img src="https://github.com/BOSEONG000126/AWS_Hackathon-HAPPB/assets/116350240/5fafe5db-4cd9-451f-90c6-7745f6a88ccc"  width="800" height="200">
+
+* [데이터셋 출처 링크]([https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=37c48c00-151f-11ec-bbc0-d7035fffebeb](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%9D%B8%EC%B2%9C%EC%8B%9C+%EC%9D%98%EB%A5%98%EC%88%98%EA%B1%B0%ED%95%A8+%EC%9C%84%EC%B9%98&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=))
+
+---
+
+
+## 어플 구조도
+* ***어플 개발 언어: Android Studio(Java)***
+* 전체 어플 구조
+<img src="https://github.com/BOSEONG000126/AWS_Hackathon-HAPPB/assets/116350240/a780ad79-e47b-4113-9003-03193ca52a50"  width="800" height="300">
+<img src="https://github.com/BOSEONG000126/AWS_Hackathon-HAPPB/assets/116350240/c233140d-f239-41d7-b66f-e53c32197a73"  width="800" height="300">
+
+
+![image](https://user-images.githubusercontent.com/62353647/202903941-a1dc1eef-e26b-434f-8c06-bf94f3fe253b.png)
+---
+## 시연 영상
+***시연 영상 Youtube 링크***
+* [청각장애, 척수장애, 지적장애용](https://youtu.be/Q2szVXufA8I)
+* [시각장애용](https://youtu.be/RHFoe5cKXU4)
 
 ## Data Analysis
 ### [1] 데이터 셋의 기본 변수 확인하기
